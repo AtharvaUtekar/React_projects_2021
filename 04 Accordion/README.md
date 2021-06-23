@@ -1,20 +1,11 @@
 #### Idea
 
-[uidesigndaily](https://uidesigndaily.com/posts/sketch-accordion-website-day-1175)
 
-![](./idea.png);
+### Site images :
+![image](https://user-images.githubusercontent.com/65060103/123099853-31a06700-d450-11eb-87b8-17ae32757e6a.png)
 
-#### React Icons
 
-[react icons](https://react-icons.github.io/react-icons/)
+![image](https://user-images.githubusercontent.com/65060103/123099873-36fdb180-d450-11eb-81ed-9b9ba54f0ab5.png)
 
-```
-npm install react-icons --save
-```
 
-```javascript
-import { FaHome } from 'react-icons/fa';
-const Component = () => {
-  return <FaHome className='icon'></FaHome>;
-};
-```
+![image](https://user-images.githubusercontent.com/65060103/123099885-3a913880-d450-11eb-84ee-c75a6cb5f299.png)
