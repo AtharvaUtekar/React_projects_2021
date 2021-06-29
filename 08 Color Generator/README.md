@@ -1,3 +1,3 @@
-#### Values JS
+#### Site Preview:
 
-[values.js](https://github.com/noeldelgado/values.js)
+
