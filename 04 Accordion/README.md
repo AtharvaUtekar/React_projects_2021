@@ -1,6 +1,3 @@
-#### Idea
-
-
 ### Site preview:
 
 
